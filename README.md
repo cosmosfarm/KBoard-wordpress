@@ -1,6 +1,15 @@
-# 무료 워드프레스 게시판 KBoard
+# KBoard - 무료 워드프레스 게시판 플러그인
 
-공식 소스 저장소: [cosmosfarm/KBoard-wordpress](https://github.com/cosmosfarm/KBoard-wordpress)
+KBoard is a free WordPress bulletin board and forum plugin. KBoard(케이보드)는 워드프레스에서 게시판, 커뮤니티, 댓글, 첨부파일 기능을 제공하는 플러그인입니다.
+
+현재 공식 소스 코드와 릴리스는 [cosmosfarm/KBoard-wordpress](https://github.com/cosmosfarm/KBoard-wordpress)에서 제공합니다. 이전 개인 저장소에서 Git 작업이 되지 않는 경우 이 저장소를 사용해주세요.
+
+## 공식 링크
+
+- [KBoard 공식 홈페이지 및 다운로드](https://www.cosmosfarm.com/products/kboard)
+- [최신 릴리스](https://github.com/cosmosfarm/KBoard-wordpress/releases/latest)
+- [KBoard 커뮤니티](https://www.cosmosfarm.com/threads)
+- [KBoard 지원](https://www.cosmosfarm.com/support)
 
 KBoard(케이보드)는 다년간의 업데이트로 안정성이 뛰어나며 모든 기능을 자유롭게 커스터마이징 할 수 있는 워드프레스 게시판입니다.
 한국에서 가장 많이 사용되는 플러그인이기 때문에 문제 발생시 커뮤니티에서 바로 해결책을 찾아볼 수 있습니다.
