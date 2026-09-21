@@ -2,7 +2,7 @@
 
 KBoard is a free WordPress bulletin board and forum plugin. KBoard(케이보드)는 워드프레스에서 게시판, 커뮤니티, 댓글, 첨부파일 기능을 제공하는 플러그인입니다.
 
-현재 공식 소스 코드와 릴리스는 [cosmosfarm/KBoard-wordpress](https://github.com/cosmosfarm/KBoard-wordpress)에서 제공합니다. 이전 개인 저장소에서 Git 작업이 되지 않는 경우 이 저장소를 사용해주세요.
+현재 공식 소스 코드와 릴리스는 [cosmosfarm/KBoard-wordpress](https://github.com/cosmosfarm/KBoard-wordpress)에서 제공합니다. 이전 개인 저장소 [chaechan/KBoard-wordpress-plugin](https://github.com/chaechan/KBoard-wordpress-plugin)에서 Git 작업이 되지 않는 경우 이 저장소를 사용해주세요.
 
 ## 공식 링크
 
