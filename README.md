@@ -1,5 +1,7 @@
 # 무료 워드프레스 게시판 KBoard
 
+공식 소스 저장소: [cosmosfarm/KBoard-wordpress](https://github.com/cosmosfarm/KBoard-wordpress)
+
 KBoard(케이보드)는 다년간의 업데이트로 안정성이 뛰어나며 모든 기능을 자유롭게 커스터마이징 할 수 있는 워드프레스 게시판입니다.
 한국에서 가장 많이 사용되는 플러그인이기 때문에 문제 발생시 커뮤니티에서 바로 해결책을 찾아볼 수 있습니다.
 자세한 설명은 홈페이지를 확인해주세요.
